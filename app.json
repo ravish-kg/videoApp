@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "VideoDemoApp",
+    "slug": "VideoDemoApp",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "VideoDemoApp"
+}
